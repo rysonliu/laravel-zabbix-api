@@ -84,5 +84,7 @@ return [
     |
      */
     'checkSsl' => env('ZABBIX_CHECK_SSL', true),
+    
+    'version' => '6.0',
 
 ];
